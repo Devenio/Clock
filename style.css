@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: digital;
+  src: url(./Digital\ Dismay.otf);
+}
+
+* {
+  font-family: digital;
+}
